@@ -1,0 +1,7 @@
+title: Doctor Genie Blog
+description: A repository for posting tech articles.
+author: Doctor Genie
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
